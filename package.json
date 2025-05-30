@@ -1,0 +1,23 @@
+{
+  "name": "web-qa-app",
+  "version": "1.0.0",
+  "description": "A web-based Q&A app that searches the internet for answers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": ["react", "ai", "web-search", "qa", "langchain"],
+  "author": "Your Name",
+  "license": "MIT"
+}
